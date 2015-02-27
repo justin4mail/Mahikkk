@@ -1,0 +1,5 @@
+cd loc //go to location for checkout 
+git clone https://github.com/justin4mail/Mahikkk.git
+git add file or folder
+git commit -m "test commit"
+git push origin master
